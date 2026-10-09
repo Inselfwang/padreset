@@ -1,0 +1,5 @@
+* text=auto
+*.png binary
+*.ico binary
+# Upstream files stay byte-for-byte identical (tools/update_upstream.py --verify).
+third_party/** -text

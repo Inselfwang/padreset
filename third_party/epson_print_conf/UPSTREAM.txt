@@ -1,0 +1,4 @@
+repo: https://github.com/Ircama/epson_print_conf
+tag: v8.2.0
+commit: 6873e9e2ebf73530a5a2e32f7485a0292e4d2d83
+files: epson_print_conf.py (unmodified), LICENSE

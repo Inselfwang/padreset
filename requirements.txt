@@ -1,0 +1,9 @@
+# Runtime: what third_party/epson_print_conf/epson_print_conf.py imports
+pyyaml
+pysnmp>=7.1.20
+pysnmp_sync_adapter>=1.1.0
+pyprintlpr>=1.1.1
+epson_escp2>=1.0.4
+
+# Window (WebView2 on Windows)
+pywebview>=5.3

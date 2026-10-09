@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PadReset</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="app"></div>
+<div id="modal-root"></div>
+<script src="i18n.js"></script>
+<script>
+  // Dev only: open index.html?mock=supported in a browser to work on the UI without a printer.
+  if (!window.pywebview && /[?&]mock=/.test(location.search)) document.write('<script src="mock.js"><\/script>');
+</script>
+<script src="app.js"></script>
+</body>
+</html>
