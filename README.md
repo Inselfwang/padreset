@@ -1,12 +1,12 @@
 # 清零助手 PadReset
 
+**[中文](#中文) · [English](#english)**
+
 免费开源的爱普生（Epson）打印机废墨计数清零工具 · Free, open-source waste ink pad counter reset for Epson printers
 
 **[⬇ 下载 Download PadReset.exe](https://github.com/Inselfwang/padreset/releases/latest)** · Windows 10/11 · 免安装 / portable · [☕ 打赏 Ko-fi](https://ko-fi.com/inself)
 
 ![清零助手主界面](docs/screenshot-zh.png)
-
-[中文](#中文) · [English](#english)
 
 ## 中文
 
